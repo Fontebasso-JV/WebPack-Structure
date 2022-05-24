@@ -1,2 +1,2 @@
 # WebPack-Structure
- Webpack build instructions
+ Package Webpack for projects
